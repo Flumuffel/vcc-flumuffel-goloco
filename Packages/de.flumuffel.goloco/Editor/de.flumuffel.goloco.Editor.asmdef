@@ -1,0 +1,14 @@
+{
+  "name": "de.flumuffel.goloco.Editor",
+  "references": [
+    "de.flumuffel.goloco"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}

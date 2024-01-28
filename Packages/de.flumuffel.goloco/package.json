@@ -1,0 +1,16 @@
+{
+  "name": "de.flumuffel.goloco",
+  "displayName": "GoLoco",
+  "version": "1.8.1",
+  "description": "GoLoco Version 1.8.1",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Flumuffel",
+    "email": "vcc@flumuffel.de"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "G:\\VrChat\\Packages\\vcc-flumuffel-goloco\\Packages\\de.flumuffel.goloco"
+}
